@@ -1,0 +1,4 @@
+hello 
+this is vim 
+i am learing how to use vim 
+i
